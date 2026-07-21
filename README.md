@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">Cybersecurity Student | Linux Enthusiast | Open Source Developer</h3>
 
